@@ -33,7 +33,7 @@ namespace CyberSecurityChatbot
                     return responses[key];
             }
 
-            return "Sorry, I don't know that one. Try 'help' for suggestions.";
+            return "Sorry, I didn't understand that. Try typing 'help' to see available topics like password, phishing etc.";
         }
     }
 }
