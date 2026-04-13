@@ -15,6 +15,7 @@ namespace CyberSecurityChatbot
                 {"phishing", "⚠ Phishing: never click suspicious links. Verify sender and check links by hovering before clicking."},
                 {"safe browsing", "🌐 Use HTTPS, keep browser updated, avoid public Wi-Fi for banking, and don't download unknown files."},
                 {"two factor", "🔑 Enable 2FA (authenticator apps or SMS) for important accounts."},
+                {"malwane", "Malwane is harmful software. Avoid downkoading unknown files and always use activirus." },
                 {"help", "Try keywords: password, phishing, safe browsing, two factor, or type 'exit' to quit."}
             };
         }
