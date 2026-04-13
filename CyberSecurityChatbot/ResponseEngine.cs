@@ -17,7 +17,7 @@ namespace CyberSecurityChatbot
                 {"two factor", "🔑 Enable 2FA (authenticator apps or SMS) for important accounts."},
                 {"malwane", "Malwane is harmful software. Avoid downkoading unknown files and always use activirus." },
                 {"scam", "Scams try to trick you into giving money or information. Never trust urgent messages asking for personal details." },
-                {"help", "Try keywords: password, phishing, safe browsing, two factor, malware, scam or type 'exit' to quit."}
+                {"help", "💡 You can ask me about cybersecurity topics like:\n- password\n- phishing\n- safe browsing\n- two factor\n- malware\n- scam\n\nType 'exit' to quit."}
             };
         }
 
