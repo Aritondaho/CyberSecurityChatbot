@@ -11,13 +11,13 @@ namespace CyberSecurityChatbot
         {
             responses = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
             {
-                {"password", "🔐 Use a strong password (12+ chars), mix letters/numbers/symbols, and use a password manager."},
+                {"password", " Use a strong password (12+ chars), mix letters/numbers/symbols, and use a password manager."},
                 {"phishing", "⚠ Phishing: never click suspicious links. Verify sender and check links by hovering before clicking."},
-                {"safe browsing", "🌐 Use HTTPS, keep browser updated, avoid public Wi-Fi for banking, and don't download unknown files."},
-                {"two factor", "🔑 Enable 2FA (authenticator apps or SMS) for important accounts."},
+                {"safe browsing", " Use HTTPS, keep browser updated, avoid public Wi-Fi for banking, and don't download unknown files."},
+                {"two factor", " Enable 2FA (authenticator apps or SMS) for important accounts."},
                 {"malwane", "Malwane is harmful software. Avoid downkoading unknown files and always use activirus." },
                 {"scam", "Scams try to trick you into giving money or information. Never trust urgent messages asking for personal details." },
-                {"help", "💡 You can ask me about cybersecurity topics like:\n- password\n- phishing\n- safe browsing\n- two factor\n- malware\n- scam\n\nType 'exit' to quit."}
+                {"help", " You can ask me about cybersecurity topics like:\n- password\n- phishing\n- safe browsing\n- two factor\n- malware\n- scam\n\nType 'exit' to quit."}
             };
         }
 
